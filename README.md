@@ -6,8 +6,9 @@
 ---
 
 ---
-
-**Status:** Currently, I'm learning Common-Lisp in pursuit of investing deeply into [CLOG](https://github.com/rabbibotton/clog). 
+<p align="center">
+  <strong>Status:</strong> Currently, I'm learning Common-Lisp in pursuit of investing deeply into <a href="https://github.com/rabbibotton/clog">CLOG</a>.
+</p>
 
 ---
 
