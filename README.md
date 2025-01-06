@@ -6,6 +6,11 @@
 ---
 
 ---
+
+**Status:** Currently, I'm learning Common-Lisp in pursuit of investing deeply into [CLOG](https://github.com/rabbibotton/clog). 
+
+---
+
 <div align="center">
 
 **For legal reasons, I am formally declaring:**  
