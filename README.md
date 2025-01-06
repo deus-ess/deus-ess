@@ -8,7 +8,7 @@
 ---
 # Status
 
-**Currently, I'm working on:**
+**Currently, I'm Working On:**
 
 - Learning Common-Lisp in pursuit of investing deeply into [CLOG](https://github.com/rabbibotton/clog).
 - Finish the restructing of my Github account (I'd say I'm 80% there).
