@@ -6,12 +6,18 @@
 ---
 
 ---
-<p align="center">
-  <strong>Status:</strong> Currently, I'm learning Common-Lisp in pursuit of investing deeply into <a href="https://github.com/rabbibotton/clog">CLOG</a>.
-</p>
+# Status
+
+**Currently, I'm working on:**
+
+- Learning Common-Lisp in pursuit of investing deeply into [CLOG](https://github.com/rabbibotton/clog).
+- Finish the restructing of my Github account (I'd say I'm 80% there).
+- Start self-hosting most of clog.house's live-demo stack.
+
+
 
 ---
-
+</br>
 <div align="center">
 
 **For legal reasons, I am formally declaring:**  
@@ -23,4 +29,8 @@ and with copyright assigned thereof is copyright declared to<br>
 "Joshua Steven Grant" from / with his discretion.
 
 </div>
+
+</br>
+
+---
 
