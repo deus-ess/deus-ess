@@ -9,6 +9,8 @@
 # Status
 **What's Happenin'?**
 
+First-big and ... hopefully last snow-storm of the year hit Saint Louis. </br>2nd day in a row I'm about to clear two double-car driveways of snow. lol </br>So very little progress on here the next few days prob tbh, as big-boy recovers.
+
 
 **Currently, I'm Working On:**
 
