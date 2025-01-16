@@ -9,7 +9,7 @@
 # Status
 **What's Happenin'?**
 
-First-big and ... hopefully last snow-storm of the year hit Saint Louis. </br>2nd day in a row I'm about to clear two double-car driveways of snow. lol </br>So very little progress on here the next few days prob tbh, as big-boy recovers.
+Moving all my main day-to-day machines from GNOME to Stumpwm.</br>In-practice doing clean installs, because want to know the process from </br>"Standard" Debian to a semi-workable / liveable config for [Clebian](https://github.com/cloghouse/clebian) x [Bark](https://github.com/cloghouse/bark).
 
 
 **Currently, I'm Working On:**
