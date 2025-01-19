@@ -1,5 +1,5 @@
 # DEUS-ESS
-> [⋂⋂ACHINA](https://nnachina-org.github.io) is the personal account of Jost Grant; And the first-step towards a much bigger project planned for 2025-2027.
+> [⋂⋂ACHINA](https://nnachina.github.io) is the personal account of Jost Grant; And the first-step towards a much bigger project planned for 2025-2027.
 
 --- 
 
