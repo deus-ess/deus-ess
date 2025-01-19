@@ -9,7 +9,7 @@
 # Status
 **What's Happenin'?**
 
-Moving all my main day-to-day machines from GNOME to Stumpwm.</br>In-practice doing clean installs, because want to know the process from </br>"Standard" Debian to a semi-workable / liveable config for [Clebian](https://github.com/cloghouse/clebian) x [Bark](https://github.com/cloghouse/bark).
+Moving all my main day-to-day machines from GNOME to Stumpwm.</br>In-practice doing clean installs, because want to know the process to move </br>from a "Standard" Debian 13 base to a semi-workable / liveable config for [EssOS](https://github.com/deus-ess/EssOS)</br> -- a first-pass attempt, for what is (hopefully) to come with [Clogos](https://github.com/cloghouse/clogos) x [Gatos](https://github.com/cardboard-foundation/gatos) Q3-4ish.
 
 
 **Currently, I'm Working On:**
